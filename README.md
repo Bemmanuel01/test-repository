@@ -1,5 +1,3 @@
-# test-repository
+# My Repository
 
-This is my new repository on my local computer.
-
-This is another example.
+Kalob is a nice and awesome teacher. I will leave him a nice review!
