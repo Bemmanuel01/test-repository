@@ -1,0 +1,20 @@
+Django Masterclass : Build 9 Real World Django Projects
+
+* What you'll learn
+* Learn Django From Scratch & Gain Essential Skills To Apply For Junior Django Developer Positions
+* Learn Django Right From the Basics Like Creating A Django Project, Understanding Models, Making Migrations, Running Django Application On Local Server
+* Learn How To Build Web Applications Using Django & Python
+* Learn How To Perform Authentication & Authorisation In Your Django Web Applications
+* Build A Full-Fledged E-commerce App With Add To Cart & Checkout Functionality, Utilise Local Storage To Save Cart Data
+* Build A Dynamic Web Based Crawler Using Django To Crawl Webpage Links
+* Build REST-APIs Using Django Rest Framework
+* Build A Web Based PDF CV Generator Using Django To Automate PDF Generations From Dynamic User Data
+* Build A Fully Functional Macro Nutrient & Calorie Tracker Using Django & Chart JS To Track & Visualise Daily Macronutrient & Calorie Consumption
+* Learn How To Customise Admin Panel In Django
+* Learn How To Create Models, Views & Templates In Django
+* Learn How To Configure URL Patters & Add Namespacing To Apps
+* Learn How To Use Mobile Responsive Templates By Integrating Django & Bootstrap
+* Learn How To Handle Form Submission POST Requests & Save Data To Database
+* Learn How To Integrate JavaScript & Django To Store Data In Browser's Local Storage
+* Learn How To Add Advanced Features Like Pagination & Search
+* Learn How To Create Dynamic Charts Using Chart JS & Integrate With Django For Data Visualisation
